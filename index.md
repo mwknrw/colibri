@@ -1,30 +1,18 @@
-## Welcome to GitHub Pages
+## Colibri Projekt-Report
 
-You can use the [editor on GitHub](https://github.com/mwknrw/colibri/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Bei Colibri handelte es sich um eine social-media App für Android und iOS, die von Maik Kaiser und Benedict Schön konzipiert wurde. Die kostenlose App war bereits in beiden Stores verfügbar und wurde benutzt. Ziel der App war es, eine dynamische Timeline zu erstellen, die in Abhängigkeit zum Standort Bilder von den nahegelegenen Restaurants oder Clubs anzeigt. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Damit sollte der User in der Lage sein, einen echten Eindruck von den Restaurants und Clubs zu bekommen. Die Poster konnten Ihren Besuch auch mit einem Sternesystem ranken, sodass sich unmittelbar eine entsprechende Bewertung anfügen ließ.
 
-### Markdown
+Das Projekt wurde aufgrund von fehlenden Einnahmen und einer kostenintensiven Infrastruktur eingestellt.
+
+### Die Funktionen im Überblick
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
